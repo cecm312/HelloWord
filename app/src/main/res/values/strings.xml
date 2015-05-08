@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">HelloWord</string>
 
-    <string name="hello_world">Hola Mundo - Carlos Ernesto Chan Martinez - ITIC92</string>
+    <string name="hello_world">Hola Mundo soy Carlos Ernesto Chan Martinez del ITIC92</string>
     <string name="action_settings">Settings</string>
 </resources>
